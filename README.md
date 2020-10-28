@@ -1,2 +1,2 @@
 # hello-world
-Este es mi primer repositorio de prueba
+Hola, me interesa mucho la ciencia de datos y estoy en proceso de aprendizaje actualmente
